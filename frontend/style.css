@@ -1,0 +1,85 @@
+body {
+    margin: 10px 0px;
+}
+.hero {
+    background-color: rgb(204, 245, 247);
+    padding: 10px 50px 5px 50px;
+    margin-bottom: 0px;
+}
+#hero-text {
+    margin-bottom: 20px;
+    margin-left: 18px;
+    font-size: 30px;
+}
+#hero-images {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+#customer1-tweet {
+    width: 423px;
+    border-radius: 5px;
+    margin: -20px 10px 40px 0px;
+}
+#customer2-tweet {
+    width: 400px;
+    border-radius: 5px;
+    margin-bottom: 50px;
+    margin-top: 0px;  
+   
+}
+#customer3-tweet {
+    width: 375px;
+    border-radius: 5px;
+    margin: 20px 0px 50px 10px;
+}
+.price-plan {
+    text-align: center;
+}
+#price-plan {
+    margin-bottom: 0px;
+    margin-top: 60px;
+}
+#plan-paragraph {
+    margin-top: 6px;
+    color: gray;
+}
+.box {
+    text-align: left;
+    padding: 0px 30px 20px 30px;
+    margin: 0px auto;
+    border-radius: 10px;
+    border: 1px solid orange;
+    background-color: rgb(240, 236, 237);
+    width: 350px;
+    height: 300px;
+}
+#nine-dollar {
+    font-size: 50px;
+    font-weight: bold;
+}
+.box-text {
+    color: gray;
+    font-size: 20px;
+}
+#monthly {
+    margin-bottom: 0px;
+}
+#nine-doll {
+    margin-top: 0px;
+}
+.start-trial-btn {
+    color: aliceblue;
+    background-color: rgb(36, 168, 201);
+    border: none;
+    padding: 10px 110px;
+    border-radius: 3.5px;
+    
+}
+ul {
+    color: gray;
+}
+li {
+    margin: 15px 0px;
+}
